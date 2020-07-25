@@ -13,8 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('coba');
+Route::get('/profile', function () {
+    return view('profile');
 });
 
 Route::get('/portfolio', function () {

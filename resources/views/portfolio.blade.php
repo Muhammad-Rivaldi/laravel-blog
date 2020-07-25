@@ -1,10 +1,10 @@
 @extends('layouts/myblog')
 
 @section('portfolio')
-<section class="page-section portfolio mt-5" id="portfolio">
+<section class="page-section bg-dark portfolio mt-5" id="portfolio">
     <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white mb-0">Portfolio</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -59,7 +59,7 @@
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Futsal</h2>
                                     <!-- Icon Divider-->
-                                    <div class="divider-custom">
+                                    <div class="divider-custom divider-primary">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>

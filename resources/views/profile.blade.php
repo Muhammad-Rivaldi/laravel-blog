@@ -9,7 +9,7 @@
                 <h1 class="masthead-heading text-uppercase mb-0">Muhammad Rivaldi</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
-                    <div style="width: 1000px;" class="divider-custom-line"></div>
+                    <div class="divider-custom-line"></div>
                     <!-- <div class="divider-custom-line"></div>
                     <div class="divider-custom-line"></div> -->
                 </div>

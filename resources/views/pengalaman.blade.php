@@ -1,7 +1,7 @@
 @extends('layouts/myblog')
 
 @section('experience')
-<section class="page-section bg-primary text-white mb-0 mt-5" id="about">
+<section class="page-section bg-dark text-white mb-0 mt-5" id="about">
             <div class="container">
                 <!-- About Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-white">Experience</h2>
