@@ -50,8 +50,6 @@
         <!-- Experience Section-->
         
         @yield('experience')
-
-        <!-- Contact Section-->
         
         <!-- Footer-->
         <footer class="footer text-center">
@@ -59,7 +57,6 @@
                 <div class="row">
                     <!-- Footer Location-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">

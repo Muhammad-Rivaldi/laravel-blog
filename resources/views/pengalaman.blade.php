@@ -12,7 +12,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- About Section Content-->
-                <div class="row">
+                <div style="text-align: justify;" class="row">
                     <div class="col-lg-4 ml-auto"><p class="lead"><b>Senior Web Developer</b><br>
                     Intelitec Solutions Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.<br><hr><br>
                     <b>March 2013 - Present</b><br>
