@@ -38,7 +38,7 @@
                 </div>
             </div>
         </nav>
-        <!-- Masthead-->
+        <!-- profil-->
         
         @yield('profil')
         
